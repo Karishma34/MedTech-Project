@@ -1,1 +1,1 @@
-Jerral - Issue faced: Code breaks for no reason, unable to scrape all the data from website, unsure what the issue is. Able to scrape only 3k+ data on good days
+Jerral (Selenium_Test_2.ipynb) - Issue faced: Code breaks for no reason, unable to scrape all the data from website, unsure what the issue is. Able to scrape only 3k+ data on good days
