@@ -1,2 +1,3 @@
 Jerral (Selenium_Test_2.ipynb) - Issue faced: Code breaks for no reason, unable to scrape all the data from website, unsure what the issue is. Able to scrape only 3k+ data on good days
 Jun Rong (medtech_data.ipynb) - Issue faced: takes too long to scrape all 400k data. 
+Andy (Website_Data_Cleaning.ipynb) - Issue faced: data 'Category' columns are all 'Others'
