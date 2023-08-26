@@ -3,7 +3,7 @@ There are 2 elements to the codes.
  1. The forums
  2. The clinical Trial Website
 
- 1. The Forums
+ - The Forums
  The crawlers to scrape the website are located in the ProjectMedTech\Web Scraping\forums\Scrappers sub-folder:
     - antidepressants_scrapper_collated.ipynb
     - cancerresearch_forum.ipynb
