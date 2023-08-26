@@ -15,10 +15,7 @@ The CSVs for all these sites are located ProjectMedTech\Web Scraping\forums\csvs
 - Clinical Trial website
 The code to scrape for clinical trials are located in the ProjectMedTech\Web Scraping\websites:
 1) Make use of Selenium to pull out all the information. The code for the webscraping is named under 'Clincial_Trials_Webscrape_2.ipynb'
-We have split the data into 3, due to the file size namely,
-- 1st_Clinical_Trials_data.zip,
-- 2nd_Clinical_Trials_data.zip,
-- 3rd_Clinical_Trials_data.zip
+We have split the data into 3, due to the file size namely, 1st_Clinical_Trials_data.zip,2nd_Clinical_Trials_data.zip,3rd_Clinical_Trials_data.zip
 
 2) Next, we clean our data and apply sentimental analysis and exploratory data analysis on the clinical trials to identify which topics are the most frequently researched among all the clinical trials. The code for the analysis is named under 'medtech_DataCleaning_v3.ipynb'
 
